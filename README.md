@@ -17,7 +17,7 @@ Or
 python websockets-server.py
 ```
 
-And run the client:
+* Run the client:
 ```
 python wsclient.py ws://127.0.0.1:8080/ 100 10
 ```
